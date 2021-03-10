@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**PutoPug/PutoPug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello! 😀
 
-Here are some ideas to get you started:
+#### Im PutoPug, Also known as PugzAreCute
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ You seem to have stumbled upon my profile!
+I mod Minecraft. These are my mods:
+
+ 1. [Combat7](https://www.curseforge.com/minecraft/mc-mods/combat7)
+
+My life goals - 
+
+ - [x] Make a mod
+ - [x] Reach a 100 Downloads
+ - [ ] Learn Assembly
+
+Want to know more? Contact me on Discord [here.](https://discord.gg/geNRqMu5XW "https://discord.gg/geNRqMu5XW")
+Tools I Use:
+ 1. VS Code
+ 2. Rider
+ 3. IntelliJ
+ 4. PyCharm
+ 5. WebStorm
+ 6. Android Studio
+ 7. Clion
+ 8. PhpStorm
+ 9. Atom
+ 10. Git
+ 11. Google
+ 
