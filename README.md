@@ -16,15 +16,16 @@ My life goals -
 
 Want to know more? Contact me on Discord [here.](https://discord.gg/geNRqMu5XW "https://discord.gg/geNRqMu5XW")
 Tools I Use:
- 1. VS Code
- 2. Rider
- 3. IntelliJ
- 4. PyCharm
- 5. WebStorm
- 6. Android Studio
- 7. Clion
- 8. PhpStorm
- 9. Atom
- 10. Git
- 11. Google
+ 1. [VS Code](https://code.visualstudio.com/)
+ 2. [Rider](https://www.jetbrains.com/rider)
+ 3. [IntelliJ](https://www.jetbrains.com/idea/)
+ 4. [PyCharm](https://www.jetbrains.com/pycharm/)
+ 5. [WebStorm](https://www.jetbrains.com/webstorm/)
+ 6. [Android Studio](https://developer.android.com/studio)
+ 7. [Clion](https://www.jetbrains.com/clion/)
+ 8. [PhpStorm](https://www.jetbrains.com/phpstorm/)
+ 9. [Atom](https://atom.io/)
+ 10.[Git](https://git-scm.com/)
+ 11.[GPG](https://gnupg.org/)
+ 12.[Google](https://www.google.com/)
  
