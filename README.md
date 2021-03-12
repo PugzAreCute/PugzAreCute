@@ -25,7 +25,7 @@ Tools I Use:
  7. [Clion](https://www.jetbrains.com/clion/)
  8. [PhpStorm](https://www.jetbrains.com/phpstorm/)
  9. [Atom](https://atom.io/)
- 10.[Git](https://git-scm.com/)
- 11.[GPG](https://gnupg.org/)
- 12.[Google](https://www.google.com/)
+ 10. [Git](https://git-scm.com/)
+ 11. [GPG](https://gnupg.org/)
+ 12. [Google](https://www.google.com/)
  
