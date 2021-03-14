@@ -7,6 +7,7 @@
 I mod Minecraft. These are my mods:
 
  1. [Combat7](https://www.curseforge.com/minecraft/mc-mods/combat7)
+ 2. [SweetberryPi](https://github.com/PugsMods/SimpleOres)
 
 My life goals - 
 
