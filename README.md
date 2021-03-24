@@ -8,14 +8,16 @@ I mod Minecraft. These are my mods:
 
  1. [Combat7](https://www.curseforge.com/minecraft/mc-mods/combat7)
  2. [SweetberryPi](https://www.curseforge.com/minecraft/mc-mods/sweetberrypi)
+ 3. [WoneWay](https://www.curseforge.com/minecraft/mc-mods/woneway)
 
 My life goals - 
 
- - [x] Make a mod
- - [x] Reach a 100 Downloads
+ - [x] Have Fun
+ - [x] Make Mods
  - [ ] Learn Assembly
+ - [ ] Go to Mars :)
 
-Want to know more? Contact me on Discord [here.](https://discord.gg/geNRqMu5XW "https://discord.gg/geNRqMu5XW")
+Want to know more? Contact me on Discord [here.](https://discord.gg/geNRqMu5XW)
 Tools I Use:
  1. [VS Code](https://code.visualstudio.com/)
  2. [Rider](https://www.jetbrains.com/rider)
