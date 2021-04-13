@@ -6,9 +6,10 @@
  You seem to have stumbled upon my profile!
 I mod Minecraft. These are my mods:
 
- 1. [Combat7](https://www.curseforge.com/minecraft/mc-mods/combat7)
- 2. [SweetberryPi](https://www.curseforge.com/minecraft/mc-mods/sweetberrypi)
- 3. [WoneWay](https://www.curseforge.com/minecraft/mc-mods/woneway)
+ 1. [WoneWay](https://www.curseforge.com/minecraft/mc-mods/woneway)
+ 2. [RandomDeathMessage](https://www.curseforge.com/minecraft/mc-mods/randomdeathmessage)
+ 3. [Combat7](https://www.curseforge.com/minecraft/mc-mods/combat7)
+ 4. [SweetberryPi](https://www.curseforge.com/minecraft/mc-mods/sweetberrypi)
 
 Want to meet me IRL? Here Is My Address
 
