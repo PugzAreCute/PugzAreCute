@@ -1,7 +1,7 @@
 
-### Hello! 😀
+### Hello there! 😀
 
-#### Im PutoPug, Also known as PugzAreCute
+#### I'm PugzAreCute
 
  You seem to have stumbled upon my profile!
 I mod Minecraft. These are my mods:
