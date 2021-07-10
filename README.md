@@ -22,22 +22,21 @@ My life goals -
  - [x] Have Fun
  - [x] Make Mods
  - [ ] Learn Assembly
- - [ ] Go to Mars :)
- - [ ] Become AntiMatter
+ - [x] Become AntiMatter
+ - [ ] ~~Aquire laser eyes so i can burn through my enimies~~
 
 Want to know more? Contact me on Discord [here.](https://discord.gg/geNRqMu5XW)
 Tools I Use:
- 1. [VS Code](https://code.visualstudio.com/)
- 2. [Rider](https://www.jetbrains.com/rider)
- 3. [IntelliJ](https://www.jetbrains.com/idea/)
- 4. [PyCharm](https://www.jetbrains.com/pycharm/)
- 5. [WebStorm](https://www.jetbrains.com/webstorm/)
- 6. [Android Studio](https://developer.android.com/studio)
- 7. [Clion](https://www.jetbrains.com/clion/)
- 8. [PhpStorm](https://www.jetbrains.com/phpstorm/)
- 9. [Atom](https://atom.io/)
- 10. [Git](https://git-scm.com/)
- 11. [GPG](https://gnupg.org/)
- 12. [Google](https://www.google.com/)
- 13. Internet
+ 1. [IntelliJ](https://www.jetbrains.com/idea/)
+ 2. [PyCharm](https://www.jetbrains.com/pycharm/)
+ 3. [WebStorm](https://www.jetbrains.com/webstorm/)
+ 4. [Android Studio](https://developer.android.com/studio)
+ 5. [Clion](https://www.jetbrains.com/clion/)
+ 6. [PhpStorm](https://www.jetbrains.com/phpstorm/)
+ 7. [Atom](https://atom.io/)
+ 8. [Nano](https://www.nano-editor.org/)
+ 9. [Git](https://git-scm.com/)
+ 10. [GPG](https://gnupg.org/)
+ 11. [Google](https://www.google.com/)
+ 12. Internet
  And more stuff that i forgot about
