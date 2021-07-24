@@ -23,7 +23,7 @@ My goals -
  - [x] Make Mods
  - [ ] Learn x86 Assembly
  - [x] Become AntiMatter
- - [ ] ~~Aquire laser eyes so i can burn through my enimies~~
+ - [x] ~~Aquire laser eyes so i can burn through my enimies~~
 
 Want to know more? Contact me on Discord [here.](https://discord.gg/geNRqMu5XW)
 Tools I Use:
