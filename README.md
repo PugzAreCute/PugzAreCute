@@ -38,6 +38,6 @@ Tools I Use:
  9. [Git](https://git-scm.com/)
  10. [GPG](https://gnupg.org/)
  11. [Google](https://www.google.com/)
- 12. Internet
+ 12. [Internet](https://en.wikipedia.org/wiki/Internet)
  
  And more stuff that i forgot about
