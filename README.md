@@ -15,13 +15,13 @@ Want to meet me IRL? Here Is My Address
 
 Earth, Solar System, Milky Way Galaxy, The Visible Universe - 24029342093324
 
-Come at any time! Just dont trouble me if im sleeping (You know this is a joke, right?)
+Come at any time! Just dont trouble me if im sleeping (You know this is a joke, right?, right?)
 
-My life goals - 
+My goals - 
 
  - [x] Have Fun
  - [x] Make Mods
- - [ ] Learn Assembly
+ - [ ] Learn x86 Assembly
  - [x] Become AntiMatter
  - [ ] ~~Aquire laser eyes so i can burn through my enimies~~
 
@@ -39,4 +39,5 @@ Tools I Use:
  10. [GPG](https://gnupg.org/)
  11. [Google](https://www.google.com/)
  12. Internet
+ 
  And more stuff that i forgot about
