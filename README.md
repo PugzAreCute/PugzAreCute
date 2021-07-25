@@ -3,7 +3,7 @@
 
 #### I'm PugzAreCute
 
- You seem to have stumbled upon my profile!
+You seem to have stumbled upon my profile!
 I mod Minecraft. These are my mods:
 
  1. [WoneWay](https://www.curseforge.com/minecraft/mc-mods/woneway)
