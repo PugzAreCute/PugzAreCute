@@ -42,3 +42,5 @@ Tools I Use:
  And more stuff that I forgot about
 
 (Try editing this file)
+
+(Pls look at the easteregg)
