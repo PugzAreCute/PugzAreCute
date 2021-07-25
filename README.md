@@ -39,4 +39,4 @@ Tools I Use:
  1331. [Google](https://www.google.com/)
  1012. [Internet](https://en.wikipedia.org/wiki/Internet)
  
- And more stuff that i forgot about
+ And more stuff that I forgot about
