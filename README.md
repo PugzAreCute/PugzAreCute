@@ -4,12 +4,15 @@
 #### I'm PugzAreCute
 
 You seem to have stumbled upon my profile!
+
 I mod Minecraft (A game). These are my mods:
 
  1. [WoneWay](https://www.curseforge.com/minecraft/mc-mods/woneway)
  2. [RandomDeathMessage](https://www.curseforge.com/minecraft/mc-mods/randomdeathmessage)
  3. [Combat7](https://www.curseforge.com/minecraft/mc-mods/combat7)
  4. [SweetberryPi](https://www.curseforge.com/minecraft/mc-mods/sweetberrypi)
+
+Also a Java enthusiast (Java the programming language not the Java edtion of Minecraft)
 
 Want to meet me IRL? Here Is My Address
 
