@@ -26,9 +26,7 @@ My goals -
  - [x] ~~Aquire laser eyes so i can burn through my enimies~~
  - [x] ~~/tp @s mars~~ 
 
-Contact: [here](https://pugzarecute.com/contact)
-
-Want to know more? Contact me on Discord [here.](https://discord.gg/geNRqMu5XW)
+Contact: [email](https://pugzarecute.com/contact) or [discord](https://discord.gg/geNRqMu5XW)
 Tools I Use:
  1. [IntelliJ](https://www.jetbrains.com/idea/)
  3. [Android Studio](https://developer.android.com/studio)
