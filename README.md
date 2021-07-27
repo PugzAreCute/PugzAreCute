@@ -5,7 +5,7 @@
 
 You seem to have stumbled upon my profile!
 
-I mod Minecraft (A game). These are my mods:
+I mod [Minecraft (A game)](https://www.minecraft.net/). These are my mods:
 
  1. [WoneWay](https://www.curseforge.com/minecraft/mc-mods/woneway)
  2. [RandomDeathMessage](https://www.curseforge.com/minecraft/mc-mods/randomdeathmessage)
