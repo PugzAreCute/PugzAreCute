@@ -47,6 +47,4 @@ Tools I Use:
 
 (Try editing this file)
 
-(Pls look at the easteregg)
-
 And dont forget, Pugs are really cute!
