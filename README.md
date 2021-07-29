@@ -9,7 +9,6 @@ I mod [Minecraft:Java Edition (A game)](https://www.minecraft.net/). These are m
 
  1. [WoneWay](https://www.curseforge.com/minecraft/mc-mods/woneway)
  2. [RandomDeathMessage](https://www.curseforge.com/minecraft/mc-mods/randomdeathmessage)
- 3. [Combat7](https://www.curseforge.com/minecraft/mc-mods/combat7)
  4. [SweetberryPi](https://www.curseforge.com/minecraft/mc-mods/sweetberrypi)
 
 Also a Java enthusiast (Java the programming language not the Java edtion of Minecraft)
