@@ -18,7 +18,7 @@ Want to meet me IRL? Here Is My Address
 
 Earth, Solar System, Milky Way Galaxy, The Visible Universe - 24029342093324
 
-Come at any time! Just dont trouble me if im sleeping (You know this is a joke, right?, right?, right?)
+Come at any time! Just dont trouble me if im sleeping (You know this is a joke, right?)
 
 My goals - 
 
@@ -28,6 +28,7 @@ My goals -
  - [x] Become AntiMatter
  - [x] ~~Aquire laser eyes so i can burn through my enimies~~
  - [x] ~~/tp @s mars~~ 
+
 
 Contact: [email](https://pugzarecute.com/contact) or [discord](https://discord.gg/geNRqMu5XW)
 Tools I Use:
