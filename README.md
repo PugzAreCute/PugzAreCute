@@ -15,7 +15,7 @@ Also a Java enthusiast (Java the programming language not the Java edtion of Min
 
 Want to meet me IRL? Here Is My Address
 
-Earth, Solar System, Milky Way Galaxy, The Visible Universe - 24029342093324
+Earth, Solar System, Milky Way Galaxy, The Visible Universe - 24029342093324 
 
 Come at any time! Just dont trouble me if im sleeping (You know this is a joke, right?)
 
@@ -35,7 +35,7 @@ Tools I Use:
  1. [IntelliJ](https://www.jetbrains.com/idea/)
  3. [Android Studio](https://developer.android.com/studio)
  11. [Clion](https://www.jetbrains.com/clion/)
- 68. [PhpStorm](https://www.jetbrains.com/phpstorm/)
+ 69. [PhpStorm](https://www.jetbrains.com/phpstorm/)
  732. [Atom](https://atom.io/)
  908. [Nano](https://www.nano-editor.org/)
  1029. [Git](https://git-scm.com/)
