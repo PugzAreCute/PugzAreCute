@@ -11,7 +11,7 @@ I mod [Minecraft: Java Edition](https://www.minecraft.net/). These are my mods:
  2. [RandomDeathMessage](https://www.curseforge.com/minecraft/mc-mods/randomdeathmessage)
  3. [SweetberryPi](https://www.curseforge.com/minecraft/mc-mods/sweetberrypi)
 
-Also a Java enthusiast (Java the programming language not the Java edtion of Minecraft)
+Also a [Java](https://java.com/) enthusiast
 
 Want to meet me IRL? Here Is My Address
 
