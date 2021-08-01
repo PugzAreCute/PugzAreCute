@@ -31,6 +31,7 @@ My goals -
 
 
 Contact: [email](https://pugzarecute.com/contact) or [discord](https://discord.gg/geNRqMu5XW)
+
 Tools I Use:
  1. [IntelliJ](https://www.jetbrains.com/idea/)
  3. [Android Studio](https://developer.android.com/studio)
