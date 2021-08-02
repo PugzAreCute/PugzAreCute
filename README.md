@@ -34,10 +34,10 @@ My goals -
 Contact: [email](https://pugzarecute.com/contact) or [discord](https://discord.gg/geNRqMu5XW)
 
 Tools I Use:
- 1. [IntelliJ](https://www.jetbrains.com/idea/)
- 3. [Android Studio](https://developer.android.com/studio)
- 11. [Clion](https://www.jetbrains.com/clion/)
- 69. [PhpStorm](https://www.jetbrains.com/phpstorm/)
+ 1. [IntelliJ](https://www.jetbrains.com/idea/) (To edit Java)
+ 3. [Android Studio](https://developer.android.com/studio) (Android apps)
+ 11. [Clion](https://www.jetbrains.com/clion/) (For my (private) C/C++ related projects)
+ 69. [PhpStorm](https://www.jetbrains.com/phpstorm/) 
  732. [Atom](https://atom.io/)
  908. [Nano](https://www.nano-editor.org/)
  1029. [Git](https://git-scm.com/)
