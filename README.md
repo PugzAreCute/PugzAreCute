@@ -13,7 +13,7 @@ I mod [Minecraft: Java Edition](https://www.minecraft.net/). These are my mods:
  2. [RandomDeathMessage](https://www.curseforge.com/minecraft/mc-mods/randomdeathmessage)
  3. [SweetberryPi](https://www.curseforge.com/minecraft/mc-mods/sweetberrypi)
 
-Also a [Java](https://java.com/) enthusiast
+Also a Java enthusiast (Java the programming language not the Java edtion of Minecraft)
 
 Want to meet me IRL? Here Is My Address
 
@@ -50,4 +50,8 @@ Tools I Use:
 
 (Try editing this file)
 
-# And dont forget, pugs are really cute!
+# And dont forget, pugs aren't cute, they're horrible. They're bred in such a way that they practically can't breath for most of their lives!
+
+## They're literally bred into suffering their entire lives
+
+### They shouldn't exist
