@@ -50,7 +50,7 @@ Tools I Use:
 
 (Try editing this file)
 
-# And dont forget, pugs aren't cute, they're horrible. They're bred in such a way that they practically can't breath for most of their lives!
+# And dont forget, pugs aren't cute, they're horrible. They're bred in such a way that they practically can't breathe for most of their lives!
 
 ## They're literally bred into suffering their entire lives
 
