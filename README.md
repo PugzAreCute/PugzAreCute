@@ -39,7 +39,7 @@ Tools I Use:
  11. [Clion](https://www.jetbrains.com/clion/) (For my (private) C/C++ related projects)
  69. [PhpStorm](https://www.jetbrains.com/phpstorm/) (For websites)
  732. [Atom](https://atom.io/) (Generaly nice editor for text)
- 908. [Nano](https://www.nano-editor.org/)
+ 908. [Nano](https://www.nano-editor.org/) (When i wanna make a file in cli)
  1029. [Git](https://git-scm.com/)
  91010. [GPG](https://gnupg.org/)
  1331. [Google](https://www.google.com/)(You thought i knew everything?)
