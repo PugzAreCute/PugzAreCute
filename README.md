@@ -43,8 +43,8 @@ Tools I Use:
  1029. [Git](https://git-scm.com/) (VCS)
  91010. [GPG](https://gnupg.org/) (PGP sigining stuff)
  1331. [Google](https://www.google.com/)(You thought i knew everything?)
- 1012. [Internet](https://en.wikipedia.org/wiki/Internet) (Reall?)
- 1024. [Wikipediah](https://en.wikipedia.org)
+ 1012. [Internet](https://en.wikipedia.org/wiki/Internet) (Really?)
+ 1024. [Wikipedia](https://en.wikipedia.org)
  
  And more stuff that I forgot about
 
