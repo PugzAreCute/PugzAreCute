@@ -43,9 +43,9 @@ Tools I Use:
  908. [Nano](https://www.nano-editor.org/) (When i wanna make a file in cli)
  1029. [Git](https://git-scm.com/) (VCS)
  91010. [GPG](https://gnupg.org/) (PGP sigining stuff)
- 1331. [Google](https://www.google.com/)(You thought i knew everything?)
+ 1331. [Google](https://www.google.com/) (You thought i knew everything?)
  1012. [Internet](https://en.wikipedia.org/wiki/Internet) (Really?)
- 1024. [Wikipedia](https://en.wikipedia.org) (read google)
+ 1024. [Wikipedia](https://en.wikipedia.org) (Idk everything ofc)
  
  And more stuff that I forgot about
 
