@@ -36,16 +36,16 @@ Contact: [email](https://pugzarecute.com/contact) or [discord](https://discord.g
 
 Tools I Use:
  1. [IntelliJ](https://www.jetbrains.com/idea/) (To edit Java)
- 3. [Android Studio](https://developer.android.com/studio) (Android apps)
- 11. [Clion](https://www.jetbrains.com/clion/) (For my (private) C/C++ related projects)
- 69. [PhpStorm](https://www.jetbrains.com/phpstorm/) (For websites)
- 732. [Atom](https://atom.io/) (Generaly nice editor for text)
- 908. [Nano](https://www.nano-editor.org/) (When i wanna make a file in cli)
- 1029. [Git](https://git-scm.com/) (VCS)
- 91010. [GPG](https://gnupg.org/) (PGP sigining stuff)
- 1331. [Google](https://www.google.com/) (You thought i knew everything?)
- 1012. [Internet](https://en.wikipedia.org/wiki/Internet) (Really?)
- 1024. [Wikipedia](https://en.wikipedia.org) (Idk everything ofc)
+ 2. [Android Studio](https://developer.android.com/studio) (Android apps)
+ 3. [Clion](https://www.jetbrains.com/clion/) (For my (private) C/C++ related projects)
+ 4. [PhpStorm](https://www.jetbrains.com/phpstorm/) (For websites)
+ 5. [Atom](https://atom.io/) (Generaly nice editor for text)
+ 6. [Nano](https://www.nano-editor.org/) (When i wanna make a file in cli)
+ 7. [Git](https://git-scm.com/) (VCS)
+ 8. [GPG](https://gnupg.org/) (PGP sigining stuff)
+ 9. [Google](https://www.google.com/) (You thought i knew everything?)
+ 10. [Internet](https://en.wikipedia.org/wiki/Internet) (Really?)
+ 11. [Wikipedia](https://en.wikipedia.org) (Idk everything ofc)
  
  And more stuff that I forgot about
 
