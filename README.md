@@ -53,6 +53,8 @@ Tools I Use:
 
 ### They're literally bred into suffering their entire lives
 
-### They shouldn't exist
+### They shouldn't exist.
 
 ### Please look at [https://www.pugsclub.org/health/pug-breathing-problems/](https://www.pugsclub.org/health/pug-breathing-problems/) for more info
+ 
+I am truly sorry for breaking you're heart,I really wish it wasnt true, but it is
