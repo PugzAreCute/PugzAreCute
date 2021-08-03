@@ -29,6 +29,7 @@ My goals -
  - [x] Become Antimatter
  - [x] ~~Aquire laser eyes so i can burn through my enimies~~
  - [x] ~~Get 500000000000000000000000000000000000000000 eyes so i can see where my enimies are mooving~~
+ - [ ] Stop adding useless things to this checklist
 
 
 Contact: [email](https://pugzarecute.com/contact) or [discord](https://discord.gg/geNRqMu5XW)
