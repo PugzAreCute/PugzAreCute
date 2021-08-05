@@ -37,7 +37,7 @@ Contact: [email](https://pugzarecute.com/contact) or [discord](https://discord.g
 Tools I Use:
  1. [IntelliJ](https://www.jetbrains.com/idea/) (To edit Java)
  2. [Android Studio](https://developer.android.com/studio) (Android apps)
- 3. [Clion](https://www.jetbrains.com/clion/) (For my (private) C/C++ related projects)
+ 3. [CLion](https://www.jetbrains.com/clion/) (For my (private) C/C++ related projects)
  4. [PhpStorm](https://www.jetbrains.com/phpstorm/) (For websites)
  5. [Atom](https://atom.io/) (Generaly nice editor for text)
  6. [Nano](https://www.nano-editor.org/) (When i wanna make a file in cli)
@@ -48,6 +48,8 @@ Tools I Use:
  11. [Wikipedia](https://en.wikipedia.org) (Idk everything ofc)
  
  And more stuff that I forgot about
+ 
+ ♥️ you JetBrains!
 
 ### And dont forget, pugs aren't cute, they're horrible. They're bred in such a way that they practically can't breathe for most of their lives!
 
