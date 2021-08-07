@@ -13,11 +13,11 @@ I mod [Minecraft: Java Edition](https://www.minecraft.net/). These are my mods:
  2. [RandomDeathMessage](https://www.curseforge.com/minecraft/mc-mods/randomdeathmessage)
  3. [SweetberryPi](https://www.curseforge.com/minecraft/mc-mods/sweetberrypi)
 
-Also a [Java](https://java.com/) enthusiast
+Also a [Java](https://java.com/) enthusiast.
 
-Want to meet me IRL? Here Is My Address
+Want to meet me IRL? Here Is My Address.
 
-Earth, Solar System, Milky Way Galaxy, The Visible Universe - 24029342093324 
+Earth, Solar System, Milky Way Galaxy, The Visible Universe - 24029342093324.
 
 Come at any time! Just dont trouble me if im sleeping (You know this is a joke, right?)
 
