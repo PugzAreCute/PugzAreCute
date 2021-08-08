@@ -43,7 +43,7 @@ Tools I Use:
  6. [Nano](https://www.nano-editor.org/) (When i wanna make a file in cli)
  7. [Git](https://git-scm.com/) (VCS)
  8. [GPG](https://gnupg.org/) (PGP sigining stuff)
- 9. [Google](https://www.google.com/) (You thought i knew everything?)
+ 9. [Google](https://www.google.com/) (You thought I knew everything?)
  10. [Internet](https://en.wikipedia.org/wiki/Internet) (Really?)
  11. [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia) (Idk everything ofc)
  
