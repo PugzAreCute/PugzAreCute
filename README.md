@@ -29,7 +29,7 @@ My goals -
  - [x] Become Antimatter
  - [x] ~~Aquire laser eyes so i can burn through my enimies~~
  - [x] ~~Get 500 eyes so i can see where my enimies are mooving~~
- - [ ] ~~Get enimies~~
+ - [ ] ~~Get enimies (step 1)~~
  - [ ] Stop adding useless things to this checklist
 
 
