@@ -15,7 +15,7 @@ I mod [Minecraft: Java Edition](https://www.minecraft.net/). These are my mods:
 
 Also a [Java](https://java.com/) enthusiast.
 
-Want to meet me IRL? Here Is My Address.
+Want to meet me IRL? Here is my address.
 
 Earth, Solar System, Milky Way Galaxy, The Visible Universe - 24029342093324.
 
