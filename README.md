@@ -17,7 +17,7 @@ Also a [Java](https://java.com/) enthusiast.
 
 Want to meet me IRL? Here is my address.
 
-Earth, Solar System, Milky Way Galaxy, The Visible Universe - 24029342093324.
+Earth, The Solar System, Milky Way Galaxy, The Visible Universe - 24029342093324.
 
 Come at any time! Just dont trouble me if im sleeping (You know this is a joke, right?)
 
