@@ -28,7 +28,7 @@ My goals -
  - [ ] Learn x86 Assembly
  - [x] Become Antimatter
  - [x] ~~Aquire laser eyes so i can burn through my enimies~~
- - [x] ~~Get 500 eyes so i can see where my enimies are mooving~~
+ - [x] ~~Get 500 eyes so I can see where my enimies are mooving~~
  - [ ] ~~Get enimies (Step 1)~~
  - [ ] Stop adding useless things to this checklist
 
