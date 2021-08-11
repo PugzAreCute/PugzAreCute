@@ -37,7 +37,7 @@ Contact: [email](https://pugzarecute.com/contact) or [discord](https://discord.g
 
 Tools I Use:
  1. [IntelliJ](https://www.jetbrains.com/idea/) (To edit Java)
- 2. [Android Studio](https://developer.android.com/studio) (Android apps)
+ 2. [Android Studio](https://developer.android.com/studio) (Android apps, Android > Apple)
  3. [CLion](https://www.jetbrains.com/clion/) (For my (private) C/C++ related projects)
  4. [PhpStorm](https://www.jetbrains.com/phpstorm/) (For websites)
  6. [Nano](https://www.nano-editor.org/) (When i wanna make a file in cli)
