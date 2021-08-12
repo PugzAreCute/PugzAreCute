@@ -29,7 +29,7 @@ My goals -
  - [x] ~~Get 500 eyes so I can see where my enimies are mooving~~
  - [ ] ~~Get enimies (Step 1)~~
  - [ ] Stop adding useless things to this checklist
- - [ ] Un become ooga booga monke brain
+ - [ ] Unbecome ooga booga monke brain
 
 
 Contact: [email](https://pugzarecute.com/contact) or [discord](https://discord.gg/geNRqMu5XW)
