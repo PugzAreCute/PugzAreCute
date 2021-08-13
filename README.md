@@ -38,7 +38,7 @@ Tools I Use:
  2. [Android Studio](https://developer.android.com/studio) (Android apps, Android > Apple)
  3. [CLion](https://www.jetbrains.com/clion/) (For my (private) C/C++ related projects)
  4. [PhpStorm](https://www.jetbrains.com/phpstorm/) (For websites)
- 6. [Nano](https://www.nano-editor.org/) (When I wanna make a file in cli)
+ 6. [Nano](https://www.nano-editor.org/) (When I wanna make a file in CLI)
  7. [Git](https://git-scm.com/) (Version control)
  8. [GPG](https://gnupg.org/) (PGP sigining stuff)
  9. [Google](https://www.google.com/) (You thought I knew everything?)
