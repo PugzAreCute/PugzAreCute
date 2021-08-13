@@ -9,7 +9,6 @@ I mod [Minecraft: Java Edition](https://www.minecraft.net/). These are my mods:
 
  1. [WoneWay](https://www.curseforge.com/minecraft/mc-mods/woneway)
  2. [RandomDeathMessage](https://www.curseforge.com/minecraft/mc-mods/randomdeathmessage)
- 3. [SweetberryPi](https://www.curseforge.com/minecraft/mc-mods/sweetberrypi)
 
 Also a [Java](https://java.com/) enthusiast.
 
