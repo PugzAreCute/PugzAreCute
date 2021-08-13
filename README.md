@@ -34,7 +34,7 @@ My goals -
 Contact: [email](https://pugzarecute.com/contact) or [discord](https://discord.gg/geNRqMu5XW)
 
 Tools I Use:
- 1. [IntelliJ IDEA](https://www.jetbrains.com/idea/) (To edit Java)
+ 1. [IntelliJ IDEA](https://www.jetbrains.com/idea/) (To edit Java code)
  2. [Android Studio](https://developer.android.com/studio) (Android apps, Android > Apple)
  3. [CLion](https://www.jetbrains.com/clion/) (For my (private) C/C++ related projects)
  4. [PhpStorm](https://www.jetbrains.com/phpstorm/) (For websites)
