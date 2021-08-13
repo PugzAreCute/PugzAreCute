@@ -5,7 +5,7 @@
 
 You seem to have stumbled upon my profile!
 
-I mod [Minecraft: Java Edition](https://www.minecraft.net/). These are a few wmy mods:
+I mod [Minecraft: Java Edition](https://www.minecraft.net/). These are a few my mods:
 
  1. [WoneWay](https://www.curseforge.com/minecraft/mc-mods/woneway)
  2. [RandomDeathMessage](https://www.curseforge.com/minecraft/mc-mods/randomdeathmessage)
