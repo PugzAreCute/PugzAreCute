@@ -28,7 +28,7 @@ My goals -
  - [x] ~~Get 500 eyes so I can see where my enimies are moving~~
  - [ ] ~~Get enimies (Step 1)~~
  - [ ] Stop adding useless things to this checklist
- - [x] Unbecome ooga booga monke brain
+ - [] Unbecome ooga booga monke brain
 
 
 Contact: [email](https://pugzarecute.com/contact) or [discord](https://discord.gg/geNRqMu5XW)
@@ -54,5 +54,7 @@ Tools I Use:
 ### They shouldn't exist.
 
 ### Please look at [this article](https://www.pugsclub.org/health/pug-breathing-problems/) for more info
- 
+ ​
+13
+Don't ask will you port to version X. I will do if I want to.
 I am truly sorry for breaking you're heart, I really wish it wasnt true, but wishes rarely, if ever change the truth.
