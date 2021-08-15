@@ -16,7 +16,7 @@ Want to meet me IRL? Here is my address:
 
 Earth, The Solar System, Milky Way Galaxy, The Visible Universe - 2402934209339669.
 
-Come at any time! Just dont trouble me if im sleeping (It's true, I don't live on mars!. You know this is a joke, right?)
+Come at any time! Just dont trouble me if im sleeping (It's true, I don't live on Mars!. You know this is a joke, right?)
 
 My goals - 
 
