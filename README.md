@@ -37,7 +37,7 @@ Tools I Use:
  1. [IntelliJ IDEA](https://www.jetbrains.com/idea/) (To edit Java code)
  2. [Android Studio](https://developer.android.com/studio) (Android apps, Android > Apple)
  3. [CLion](https://www.jetbrains.com/clion/) (For my (private) C/C++ related projects)
- 4. [PhpStorm](https://www.jetbrains.com/phpstorm/) (For websites)
+ 4. [PhpStorm](https://www.jetbrains.com/phpstorm/) (For HTML/PHP)
  6. [Nano](https://www.nano-editor.org/) (When I want to edit/make files in CLI)
  7. [Git](https://git-scm.com/) (Version control)
  8. [GPG](https://gnupg.org/) (PGP stuff)
