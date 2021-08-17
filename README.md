@@ -10,7 +10,7 @@ I mod [Minecraft: Java Edition](https://www.minecraft.net/). These are some of m
 1. [WoneWay](https://www.curseforge.com/minecraft/mc-mods/woneway)
 2. [RandomDeathMessage](https://www.curseforge.com/minecraft/mc-mods/randomdeathmessage)
 
-Also a [Java](https://java.com/) programmer.
+Also a [Java](https://java.com/)/[Kotlin](https://kotlinlang.org/) programmer.
 
 Want to meet me IRL? Here is my address:
 
