@@ -29,6 +29,7 @@ My goals -
  - [ ] ~~Get enimies (Step 1)~~
  - [ ] Stop adding useless things to this checklist
  - [ ] Unbecome ooga booga monke brain
+ - [ ] Learn how to spell
 
 
 Contact: [email](https://pugzarecute.com/contact) or [discord](https://discord.gg/geNRqMu5XW)
