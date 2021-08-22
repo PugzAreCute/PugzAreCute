@@ -18,7 +18,7 @@ Earth, The Solar System, Milky Way Galaxy, The Visible Universe - 24029342093396
 
 Come at any time! Just dont trouble me if i'm sleeping (It's true, I don't live on Mars!. You know this is a joke, right?)
 
-Stuff i wanna do (Maybe) - 
+Stuff I wanna do (Maybe) - 
 
  - [x] Have Fun
  - [x] Make Mods
