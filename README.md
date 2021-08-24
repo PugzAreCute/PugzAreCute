@@ -55,5 +55,3 @@ Tools I Use:
 ### They shouldn't exist.
 
 ### Please look at [this article](https://www.pugsclub.org/health/pug-breathing-problems/) for more info
-
-I am truly sorry for breaking you're heart, I really wish it wasnt true, but wishes rarely, if ever change the truth.
