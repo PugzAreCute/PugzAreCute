@@ -36,7 +36,7 @@ Contact: [email](https://pugzarecute.com/contact) or [discord](https://discord.g
 
 Tools I Use:
  1. [IntelliJ IDEA](https://www.jetbrains.com/idea/) (For Java/Kotlin)
- 2. [Android Studio](https://developer.android.com/studio) (Android apps, Who use Affel anyways?) 
+ 2. [Android Studio](https://developer.android.com/studio) (Android apps, Who use Affel anyways?)
  3. [CLion](https://www.jetbrains.com/clion/) (For C/C++)
  4. [PhpStorm](https://www.jetbrains.com/phpstorm/) (For HTML/PHP)
  6. [Nano](https://www.nano-editor.org/) (When I want to edit/make files in CLI)
