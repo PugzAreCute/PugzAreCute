@@ -47,7 +47,7 @@ Tools I Use:
  10. [Internet](https://en.wikipedia.org/wiki/Internet) (Really?)
  11. [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia) (IDK everything ofc)
  
- And more stuff that I forgot about (yeah monke brain moment)
+ And more stuff that I forgot about (Yeah monke brain moment)
  
 ### And dont forget, pugs aren't cute, they're horrible. They're bred in such a way that they practically can't breathe for most of their lives!
 
