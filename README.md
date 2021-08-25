@@ -29,7 +29,7 @@ Stuff I wanna do (Maybe) -
  - [x] ~~Get 500 eyes so I can see where my enimies are moving~~
  - [ ] ~~Get enimies (Step 1)~~
  - [ ] Stop adding useless things to this checklist
- - [ ] Unbecome monke brain (Caye yes
+ - [ ] Unbecome monke brain (Caye yes)
  - [ ] Learn how to spell (You thought I could spell?)
 
 
