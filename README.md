@@ -23,7 +23,7 @@ Stuff I wanna do (Maybe) -
  - [x] Have Fun
  - [x] Make Mods
  - [ ] Learn x86 Assembly
- - [x]
+ - [x
  - [x] Become Antimatter
  - [x] ~~Aquire laser eyes so I can burn through my enimies~~
  - [x] ~~Get 500 eyes so I can see where my enimies are moving~~
