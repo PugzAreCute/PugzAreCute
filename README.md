@@ -20,6 +20,8 @@ Come at any time! Just dont trouble me if I'm sleeping (It's true, I don't live 
 
 Did I mention python is bad?
 
+Pronouns: he/they
+
 Stuff I wanna do (Maybe) - 
 
  - [x] Have Fun
