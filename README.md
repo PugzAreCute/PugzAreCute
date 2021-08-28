@@ -14,7 +14,7 @@ Also a [Java](https://java.com/)/[Kotlin](https://kotlinlang.org/) programmer.
 
 Want to meet me IRL? Here is my address:
 
-Earth, The Solar System, Milky Way Galaxy, The obsarvaleUniverse - 240293420943396699.
+Earth, The Solar System, Milky Way Galaxy, The obsarvale Universe - 240293420943396699.
 
 Come at any time! Just dont trouble me if I'm sleeping (It's true, I don't live on Mars. You know this is a joke, right?)
 
