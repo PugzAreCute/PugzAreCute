@@ -18,6 +18,8 @@ Earth, The Solar System, Milky Way Galaxy, The Observable Universe - 24029342094
 
 Come at any time! Just dont trouble me if I'm sleeping (It's true, I don't live on Mars. You know this is a joke, right?)
 
+Did i mention python bad?
+
 Stuff I wanna do (Maybe) - 
 
  - [x] Have Fun
