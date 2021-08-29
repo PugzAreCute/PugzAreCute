@@ -22,7 +22,6 @@ Did I mention python is bad?
 
 Pronouns: he/they
 
-
 Contact: [email](https://pugzarecute.com/contact) or [discord](https://discord.gg/geNRqMu5XW)
 
 Tools I Use:
