@@ -5,7 +5,7 @@
 
 You seem to have stumbled upon my profile!
 
-I make mod [Minecraft: Java Edition](https://www.minecraft.net/). These are some of my mods:
+I make mods [Minecraft: Java Edition](https://www.minecraft.net/). These are some of my mods:
 
 1. [WoneWay](https://www.curseforge.com/minecraft/mc-mods/woneway)
 2. [RandomDeathMessage](https://www.curseforge.com/minecraft/mc-mods/randomdeathmessage)
