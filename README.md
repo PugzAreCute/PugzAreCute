@@ -22,19 +22,6 @@ Did I mention python is bad?
 
 Pronouns: he/they
 
-Stuff I wanna do (Maybe) - 
-
- - [x] Have Fun
- - [x] Make Mods
- - [ ] Learn x86 Assembly
- - [x] Become Antimatter
- - [x] ~~Aquire laser eyes so I can burn through my enimies~~
- - [x] ~~Get 500 eyes so I can see where my enimies are moving~~
- - [ ] ~~Get enimies (Step 1)~~
- - [ ] Stop adding useless things to this checklist
- - [ ] Unbecome monke brain (Cause yes)
- - [ ] Learn how to spell (You thought I could spell?)
-
 
 Contact: [email](https://pugzarecute.com/contact) or [discord](https://discord.gg/geNRqMu5XW)
 
@@ -51,6 +38,20 @@ Tools I Use:
  11. [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia) (IDK everything ofc)
  
  And more stuff that I forgot about (Yeah monke brain moment)
+ 
+ Stuff I wanna do (Maybe) - 
+
+ - [x] Have Fun
+ - [x] Make Mods
+ - [ ] Learn x86 Assembly
+ - [x] Become Antimatter
+ - [x] ~~Aquire laser eyes so I can burn through my enimies~~
+ - [x] ~~Get 500 eyes so I can see where my enimies are moving~~
+ - [ ] ~~Get enimies (Step 1)~~
+ - [ ] Stop adding useless things to this checklist
+ - [ ] Unbecome monke brain (Cause yes)
+ - [ ] Learn how to spell (You thought I could spell?)
+
  
 ### And dont forget, pugs aren't cute, they're horrible. They're bred in such a way that they practically can't breathe for most of their lives!
 
