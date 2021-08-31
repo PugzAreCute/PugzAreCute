@@ -18,7 +18,7 @@ Earth, The Solar System, Milky Way Galaxy, The Observable Universe - 24029342094
 
 Come at any time! Just dont trouble me if I'm sleeping (It's true, I don't live on Mars. You know this is a joke, right?)
 
-Pronouns: he/they
+Pronouns: he(him)/they(them)
 
 Contact: [email](https://pugzarecute.com/contact) or [discord](https://discord.gg/geNRqMu5XW)
 
