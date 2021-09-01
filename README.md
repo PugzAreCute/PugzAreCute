@@ -42,7 +42,7 @@ Tools I Use:
  - [x] Make Mods
  - [ ] Learn x86 Assembly
  - [x] Become Antimatter
- - [x] ~~Aquire laser eyes so I can burn through my enimies~~
+ - 
  - 
  - 
  - 
