@@ -41,7 +41,7 @@ Tools I Use:
  - [x] Have Fun
  - [x] Make Mods
  - [ ] Learn x86 Assembly
- - 
+ -
  - 
  - 
  - 
