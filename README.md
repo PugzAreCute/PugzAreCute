@@ -44,7 +44,7 @@ Tools I Use:
  - [x] Become Antimatter
  - [x] ~~Aquire laser eyes so I can burn through my enimies~~
  - [x] ~~Get 500 eyes so I can see where my enimies are moving~~
- - [ ] ~~Get enimies (Step 1)~~
+ - 
  - 
  - 
  - 
