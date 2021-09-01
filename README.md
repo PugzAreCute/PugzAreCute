@@ -47,7 +47,7 @@ Tools I Use:
  - [ ] ~~Get enimies (Step 1)~~
  - [ ] Stop adding useless things to this checklist
  - [ ] Unbecome monke brain (Cause yes)
- - [ ] Learn how to spell (You thought I could spell?)
+ - 
  -
 
 ### And dont forget, pugs aren't cute, they're horrible. They're bred in such a way that they practically can't breathe for most of their lives!
