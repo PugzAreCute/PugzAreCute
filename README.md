@@ -41,14 +41,6 @@ Tools I Use:
  - [x] Have Fun
  - [x] Make Mods
  - [ ] Learn x86 Assembly
- -
- -
- -
- - 
- - 
- - 
- -
- -
 
 ### And dont forget, pugs aren't cute, they're horrible. They're bred in such a way that they practically can't breathe for most of their lives!
 
