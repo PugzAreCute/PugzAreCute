@@ -47,4 +47,4 @@ Tools I Use:
 
 ### They shouldn't exist.
 
-### Please look at [this article](https://www.pugsclub.org/health/pug-breathing-problems/) for more info
+### 
