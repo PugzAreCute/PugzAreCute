@@ -31,4 +31,3 @@ Tools I Use:
  7. [Git](https://git-scm.com/) (Version Control)
  8. [GPG](https://gnupg.org/) (PGP stuff)
  9. [Google](https://www.google.com/) (You thought I knew everything?)
-
