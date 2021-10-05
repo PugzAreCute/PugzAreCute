@@ -12,8 +12,6 @@ I usually mod minecraft. These are some of my mods:
 1. [WoneWay](https://www.curseforge.com/minecraft/mc-mods/woneway)
 2. [RandomDeathMessage](https://www.curseforge.com/minecraft/mc-mods/randomdeathmessage)
 
-Come at any time! Just dont trouble me if I'm sleeping (It's true, I don't live on Mars. You know this is a joke, right?)
-
 Pronouns: he(him)/they(them)
 
 Contact: [email](https://pugzarecute.com/contact) or [discord](https://discord.gg/geNRqMu5XW)
