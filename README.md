@@ -17,7 +17,7 @@ Pronouns: he(him)/they(them)
 Contact: [email](https://pugzarecute.com/contact) or [discord](https://discord.gg/geNRqMu5XW)
 
 Tools I Use:
- 1. [IntelliJ IDEA](https://www.jetbrains.com/idea/) (For Java/Kotlin)
+ 1. [IntelliJ IDEA](https://www.jetbrains.com/idea/)
  3. [CLion](https://www.jetbrains.com/clion/) (For C/C++)
  4. [PhpStorm](https://www.jetbrains.com/phpstorm/) (For HTML/PHP)
  6. [Nano](https://www.nano-editor.org/) (When I want to edit/make files in CLI)
