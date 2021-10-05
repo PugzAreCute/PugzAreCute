@@ -7,11 +7,10 @@ You seem to have stumbled upon my profile!
 
 I am a [Java](https://java.com/)/[Kotlin](https://kotlinlang.org/) programmer.
 
-I usually mod minecraft
+I usually mod minecraft. These are some of my mods:
 
-Want to meet me IRL? Here is my address:
-
-Earth, The Solar System, Milky Way Galaxy, The Observable Universe - 240293420943396699. (ETA form your location: 69.42 Light years.)
+1. [WoneWay](https://www.curseforge.com/minecraft/mc-mods/woneway)
+2. [RandomDeathMessage](https://www.curseforge.com/minecraft/mc-mods/randomdeathmessage)
 
 Come at any time! Just dont trouble me if I'm sleeping (It's true, I don't live on Mars. You know this is a joke, right?)
 
