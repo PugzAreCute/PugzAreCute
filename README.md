@@ -5,7 +5,9 @@
 
 You seem to have stumbled upon my profile!
 
-A [Java](https://java.com/)/[Kotlin](https://kotlinlang.org/) programmer.
+I am a [Java](https://java.com/)/[Kotlin](https://kotlinlang.org/) programmer.
+
+I usually mod minecraft
 
 Want to meet me IRL? Here is my address:
 
