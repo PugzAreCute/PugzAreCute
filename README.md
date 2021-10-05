@@ -23,4 +23,3 @@ Tools I Use:
  6. [Nano](https://www.nano-editor.org/) (When I want to edit/make files in CLI)
  7. [Git](https://git-scm.com/) (Version Control)
  8. [GPG](https://gnupg.org/) (PGP stuff)
- 9. [Google](https://www.google.com/) (You thought I knew everything?)
