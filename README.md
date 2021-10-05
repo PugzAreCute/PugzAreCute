@@ -32,5 +32,4 @@ Tools I Use:
  8. [GPG](https://gnupg.org/) (PGP stuff)
  9. [Google](https://www.google.com/) (You thought I knew everything?)
  10. [Internet](https://en.wikipedia.org/wiki/Internet) (Really?)
- 11. [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia) (IDK everything ofc)
 
