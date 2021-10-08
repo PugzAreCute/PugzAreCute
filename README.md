@@ -21,5 +21,5 @@ Tools I Use:
  3. [CLion](https://www.jetbrains.com/clion/) 
  4. [PhpStorm](https://www.jetbrains.com/phpstorm/)
  6. [Nano](https://www.nano-editor.org/)
- 7. [Git](https://git-scm.com/) (Version Control
+ 7. [Git](https://git-scm.com/) (Version Contro
  8. [GPG](https://gnupg.org/)
