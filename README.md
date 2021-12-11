@@ -7,7 +7,7 @@ You seem to have stumbled upon my profile!
 
 I am a [Java](https://java.com/)/[Kotlin](https://kotlinlang.org/) programmer.
 
-I usually mod minecraft. These are some of my mods:
+I mod Minecraft. These are some of my mods:
 
 1. [WoneWay](https://www.curseforge.com/minecraft/mc-mods/woneway)
 2. [RandomDeathMessage](https://www.curseforge.com/minecraft/mc-mods/randomdeathmessage)
