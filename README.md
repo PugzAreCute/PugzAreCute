@@ -20,5 +20,5 @@ Tools I Use:
  1. [IntelliJ IDEA](https://www.jetbrains.com/idea/)
  2. [PhpStorm](https://www.jetbrains.com/phpstorm/)
  3. [Nano](https://www.nano-editor.org/)
- 7. [Git](https://git-scm.com/) 
+ 4. [Git](https://git-scm.com/) 
  8. [GPG](https://gnupg.org/)
