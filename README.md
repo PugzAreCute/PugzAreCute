@@ -19,6 +19,6 @@ Contact: [email](https://pugzarecute.com/contact) or [discord](https://discord.g
 Tools I Use:
  1. [IntelliJ IDEA](https://www.jetbrains.com/idea/)
  2. [PhpStorm](https://www.jetbrains.com/phpstorm/)
- 3. [GNUNano](https://www.nano-editor.org/)
+ 3. [GNU Nano](https://www.nano-editor.org/)
  4. [Git](https://git-scm.com/) 
  5. [GPG](https://gnupg.org/)
