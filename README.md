@@ -14,7 +14,7 @@ I mod Minecraft. These are my mods:
 
 Pronouns: he(him)/they(them)
 
-Contact: [email](https://pugzarecute.com/contact) o
+Contact: [email](https://pugzarecute.com/contact) 
 
 Tools I Use:
  1. [IntelliJ IDEA](https://www.jetbrains.com/idea/)
