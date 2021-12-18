@@ -7,11 +7,6 @@ You seem to have stumbled upon my profile!
 
 I am a [Java](https://java.com/)/[Kotlin](https://kotlinlang.org/) programmer.
 
-I mod Minecraft. These are my mods:
-
-1. [WoneWay](https://www.curseforge.com/minecraft/mc-mods/woneway)
-2. [RandomDeathMessage](https://www.curseforge.com/minecraft/mc-mods/randomdeathmessage)
-
 Pronouns: he(him)/they(them)
 
 Contact: [https://www.pugzarecute.com/contact](https://www.pugzarecute.com/contact)
