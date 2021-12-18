@@ -21,4 +21,4 @@ Tools I Use:
  2. [PhpStorm](https://www.jetbrains.com/phpstorm/)
  3. [GNU Nano](https://www.nano-editor.org/)
  4. [Git](https://git-scm.com/) 
- 5. [GPG](https://gnupg.org/)
+ 5. [GPG](https://gnupg.org/
