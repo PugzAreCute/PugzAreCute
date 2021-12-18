@@ -14,5 +14,5 @@ Contact: [https://www.pugzarecute.com/contact](https://www.pugzarecute.com/conta
 Tools I Use:
  1. [IntelliJ IDEA](https://www.jetbrains.com/idea/)
  2. [PhpStorm](https://www.jetbrains.com/phpstorm/)
- 4. [Git](https://git-scm.com/) 
+ 3. [Git](https://git-scm.com/) 
  5. [GPG](https://gnupg.org/)
