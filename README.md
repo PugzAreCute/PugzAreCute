@@ -1,10 +1,16 @@
 # Hello there!
 ## I'm PugzAreCute!
 
-You seem to have stumbled upon my profile!
+Im taking a break.
 
-I am a [Java](https://java.com/)/[Kotlin](https://kotlinlang.org/) programmer.
+I'll be back by 2023.
 
-Contact: [https://www.pugzarecute.com/contact](https://www.pugzarecute.com/contact)
+Trust me, waiting hours for one compile is unberable.
 
-Headache of the day: Breaking my head on why `fail2ban` complains about logfiles being missing but when `cat` proves that the file does exist
+waiting for ryzen 700 :)
+
+(this is why ci is dead btw, i reset the server and stuff)
+
+so uhh
+
+bye.
