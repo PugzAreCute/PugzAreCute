@@ -1,16 +1,12 @@
 # Hello there!
 ## I'm PugzAreCute!
 
-Im taking a break.
+You seem to have stumbled upon my profile!
 
-I'll be back by 2023.
+I am a Java (Kotlin too) and C(memory leaks++) programmer.
 
-Trust me, waiting hours for one compile is unberable.
+Contact: [https://www.pugzarecute.com/contact](https://www.pugzarecute.com/contact) or my email(see profile).
 
-waiting for ryzen 700 :)
+Yes, I am actually back!
 
-(this is why ci is dead btw, i reset the server and stuff)
-
-so uhh
-
-bye.
+If no other work pops up I'll probably rewrite RDM and update WoneWay when the weekend comes!
